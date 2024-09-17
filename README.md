@@ -1,5 +1,5 @@
 <h1>
-  <img src='assets/MeowClorox.gif' height='30'/>
+  <img src='asset/giphy.gif' height='30'/>
   Hi there my No.
   <img src='https://profile-counter.glitch.me/Tinuvile/count.svg' height='30'/>
   visitor!
