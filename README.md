@@ -1,8 +1,9 @@
 <h1>
-  <img src='asset/giphy.gif' height='30'/>
+  <img src='asset/v2-bc1b8b3037f2703f7d29661ca865c092_b.webp' height='50'/>
   Hi there my No.
   <img src='https://profile-counter.glitch.me/Tinuvile/count.svg' height='30'/>
   visitor!
+  <img src='asset/v2-bc1b8b3037f2703f7d29661ca865c092_b.webp' height='50'/>
 </h1>
 
 ### ✨&nbsp; About Me
