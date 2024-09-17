@@ -5,16 +5,14 @@
   visitor!
 </h1>
 
-This is the place where I opensource stuff and break things :rofl:
-
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Flutter, Go
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
-- 👨‍💻 &nbsp;Read more about my projects at [gautamkrishnar.com](https://www.gautamkrishnar.com/#portfolio)
-- ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
-
 ### ✨&nbsp; About Me
+- 🔭 &nbsp;I’m an ungraduated student of Tongji University,China :wink:
+- 🌱 &nbsp;I’m currently learning Berkeley CS60B Spring18 and CS70 fall 24
+- ⚡ &nbsp;Welcome to communicate with me
+- 💬 &nbsp;Wechat:wxid_bzwyjdujaj6922
+- 👨‍💻 &nbsp;Email:tinuvile@outlook.com
 
-I am a Full Stack Developer with 9+ years of experience in developing enterprise applications and open-source software.
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tinuvile)](https://github.com/anuraghazra/github-readme-stats)
+### 🏠&nbsp; My Github
+![Tinuvile's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tinuvile&show_icons=true&bg_color=30,4c6ef5,a855f7&title_color=fff&text_color=fff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tinuvile)](https://github.com/Tinuvile/github-readme-stats)
+
