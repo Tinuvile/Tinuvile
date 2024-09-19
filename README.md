@@ -15,7 +15,7 @@
 <img src='asset/v2-405fe33df25b3d6a1c8617054f8ace5b_b.webp' height='80'/>
 
 ### 🏠&nbsp; My Github
-![Tinuvile's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tinuvile&show_icons=true&bg_color=30,4c6ef5,a855f7&title_color=fff&text_color=fff)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tinuvile)](https://github.com/Tinuvile/github-readme-stats)
-
+<div align='center'>
+  <img src='https://github-readme-stats.vercel.app/api?username=Tinuvile&show_icons=true&count_private=true' height='190'/>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Tinuvile&layout=compact' height='190'/>
+</div>
