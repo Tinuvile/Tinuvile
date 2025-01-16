@@ -9,7 +9,9 @@
 ### ✨&nbsp; About Me
 - 🔭 &nbsp;I’m an ungraduated student of Tongji University,China :wink:
 - ⚡ &nbsp;Welcome to communicate with me
+<!---
 - 💬 &nbsp;Wechat:wxid_bzwyjdujaj6922
+-->
 - 👨‍💻 &nbsp;Email:tinuvile@outlook.com
 <img src='asset/v2-405fe33df25b3d6a1c8617054f8ace5b_b.webp' height='80'/>
 
