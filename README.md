@@ -18,9 +18,7 @@
 ### 🏠&nbsp; My Github
 <div align='center'>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Tinuvile&layout=compact' height='190'/>
-  <!---
   <img src='https://github-readme-stats.vercel.app/api?username=Tinuvile&show_icons=true&count_private=true' height='190'/>
-  -->
 </div>
 <!---
 -->
