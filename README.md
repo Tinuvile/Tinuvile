@@ -3,8 +3,9 @@
   Hi！This is @tinuvile
 </h1>
 
-My username comes from the story of Beren and Lúthien in The Silmarillion, which is one of my favorite stories.
+My username comes from the story of [Beren and Lúthien](https://lotr.huijiwiki.com/wiki/%E8%B4%9D%E4%BC%A6%E4%B8%8E%E9%9C%B2%E8%A5%BF%E6%81%A9) in The Silmarillion, which is one of my favorite stories.
 
+> [Beren](https://lotr.huijiwiki.com/wiki/%E8%B4%9D%E4%BC%A6)
 > [Lúthien](https://lotr.huijiwiki.com/wiki/%E9%9C%B2%E8%A5%BF%E6%81%A9)
 
 <div align='center'>
