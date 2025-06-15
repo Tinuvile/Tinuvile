@@ -9,8 +9,8 @@ My username comes from the story of [Beren and Lúthien](https://lotr.huijiwiki.
 > [Lúthien](https://lotr.huijiwiki.com/wiki/%E9%9C%B2%E8%A5%BF%E6%81%A9)
 
 <div align='center'>
-  <img src='https://github-readme-stats.vercel.app/api?username=Tinuvile&show_icons=true&count_private=true' height='190'/>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Tinuvile&layout=compact' height='190'/>
+  <img src='https://github-readme-stats.vercel.app/api?username=Tinuvile&show_icons=true&count_private=true&theme=shadow_blue' height='190' />
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Tinuvile&layout=compact&theme=shadow_blue' height='190'/>
 </div>
 <!---
 -->
