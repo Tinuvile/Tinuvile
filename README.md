@@ -24,11 +24,6 @@ My username comes from the story of [Beren and Lúthien](https://lotr.huijiwiki.
 </table>
 
 <center>
-		<img src="https://streak-stats.demolab.com?user=Tinuvile&theme=gruvbox-duo" width="100%" />
-		</img>
-</center>
-
-<center>
 		<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tinuvile&theme=github-compact&hide_border=true&area=true" />
 </center>
 
