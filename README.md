@@ -8,9 +8,29 @@ My username comes from the story of [Beren and Lúthien](https://lotr.huijiwiki.
 > [Beren](https://lotr.huijiwiki.com/wiki/%E8%B4%9D%E4%BC%A6)
 > [Lúthien](https://lotr.huijiwiki.com/wiki/%E9%9C%B2%E8%A5%BF%E6%81%A9)
 
-<div align='center'>
-  <img src='https://github-readme-stats.vercel.app/api?username=Tinuvile&show_icons=true&count_private=true&theme=shadow_blue' height='190' />
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Tinuvile&layout=compact&theme=shadow_blue' height='190'/>
-</div>
+<table rules="none" align="center">
+		<td>
+			<center>
+				<img src='https://github-readme-stats.vercel.app/api?username=Tinuvile&show_icons=true&count_private=true&theme=shadow_blue' height='190' />
+				</img>
+			</center>
+		</td>
+		<td>
+			<center>
+				<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Tinuvile&layout=compact&theme=shadow_blue' height='190'/>
+				</img>
+			</center>
+		</td>
+</table>
+
+<center>
+		<img src="https://streak-stats.demolab.com?user=Tinuvile&theme=gruvbox-duo" width="100%" />
+		</img>
+</center>
+
+<center>
+		<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tinuvile&theme=github-compact&hide_border=true&area=true" />
+</center>
+
 <!---
 -->
