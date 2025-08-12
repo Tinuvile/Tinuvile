@@ -28,4 +28,5 @@ My username comes from the story of [Beren and Lúthien](https://lotr.huijiwiki.
 </center>
 
 <!---
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tinuvile&layout=compact"/>
 -->
