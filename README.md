@@ -11,13 +11,13 @@ My username comes from the story of [Beren and Lúthien](https://lotr.huijiwiki.
 <table rules="none" align="center">
 		<td>
 			<center>
-				<img src='https://github-readme-stats.vercel.app/api?username=Tinuvile&show_icons=true&count_private=true&theme=shadow_blue' height='190' />
+				<img src="https://github-readme-stats.vercel.app/api?username=Tinuvile&show_icons=true&count_private=true&rank_icon=github&line_height=27&custom_title=GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" style="height: 360px"/>
 				</img>
 			</center>
 		</td>
 		<td>
 			<center>
-				<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Tinuvile&layout=compact&theme=shadow_blue' height='190'/>
+				<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tinuvile&layout=compact" style="height: 360px"/>
 				</img>
 			</center>
 		</td>
