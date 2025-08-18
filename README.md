@@ -8,19 +8,21 @@ My username comes from the story of [Beren and Lúthien](https://lotr.huijiwiki.
 > [Beren](https://lotr.huijiwiki.com/wiki/%E8%B4%9D%E4%BC%A6)
 > [Lúthien](https://lotr.huijiwiki.com/wiki/%E9%9C%B2%E8%A5%BF%E6%81%A9)
 
-<table rules="none" align="center">
-		<td>
-			<center>
-				<img src="https://github-readme-stats.vercel.app/api?username=Tinuvile&show_icons=true&count_private=true&rank_icon=github&line_height=27&custom_title=GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" style="height: 360px"/>
-				</img>
-			</center>
-		</td>
-		<td>
-			<center>
-				<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tinuvile&layout=compact" style="height: 360px"/>
-				</img>
-			</center>
-		</td>
+<table rules="none" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <center>
+        <img src="https://github-readme-stats.vercel.app/api?username=Tinuvile&show_icons=true&count_private=true&rank_icon=github&line_height=27&custom_title=GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" 
+             style="max-height: 280px; height: auto;"/>
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tinuvile&layout=compact" 
+             style="max-height: 280px; height: auto;"/>
+      </center>
+    </td>
+  </tr>
 </table>
 
 <center>
