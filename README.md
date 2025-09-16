@@ -8,7 +8,6 @@ My username comes from the story of [Beren and Lúthien](https://lotr.huijiwiki.
 > [Beren](https://lotr.huijiwiki.com/wiki/%E8%B4%9D%E4%BC%A6)
 > [Lúthien](https://lotr.huijiwiki.com/wiki/%E9%9C%B2%E8%A5%BF%E6%81%A9)
 
-<!---
 <table rules="none" align="center" cellpadding="0" cellspacing="0">
   <tr>
     <td>
@@ -25,7 +24,6 @@ My username comes from the story of [Beren and Lúthien](https://lotr.huijiwiki.
     </td>
   </tr>
 </table>
--->
 
 <center>
 		<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tinuvile&theme=github-compact&hide_border=true&area=true" />
