@@ -27,21 +27,19 @@ My username comes from the story of [Beren and Lúthien](https://lotr.huijiwiki.
 </table>
 -->
 
-<table rules="none" align="center" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <center>
-        <img src="https://github-readme-stats.vercel.app/api?username=Tinuvile&show_icons=true&count_private=true&rank_icon=github&line_height=27&custom_title=GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" 
-             style="max-height: 280px; height: auto;"/>
-      </center>
-    </td>
-    <td>
-      <center>
-        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tinuvile&theme=github-compact&hide_border=true&area=true" />
-      </center>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Tinuvile&show_icons=true&count_private=true&rank_icon=github&line_height=27&custom_title=GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" 
+    style="max-height: 280px; height: auto; max-width: 100%;"
+  />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Tinuvile&theme=github-compact&hide_border=true&area=true" 
+    style="max-width: 800px; width: 100%;"
+  />
+</div>
 
 <!---
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tinuvile&layout=compact"/>
