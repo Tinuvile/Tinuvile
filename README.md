@@ -27,10 +27,14 @@ My username comes from the story of [Beren and Lúthien](https://lotr.huijiwiki.
 </table>
 -->
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tinuvile&show_icons=true&count_private=true&rank_icon=github&line_height=27&custom_title=GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" style="height: 360px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tinuvile&exclude_repo=Stardew_Valley_Cocos2d-x4.0&layout=compact&hide=jupyter%20notebook&langs_count=20" style="height: 360px"/>
-</div>
+<p align="center">
+  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=143079146" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=143079146&image_size=auto&color_scheme=dark" width="771">
+      <img alt="Dashboard stats of @Tinuvile" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=143079146&image_size=auto&color_scheme=light" width="771">
+    </picture>
+  </a>
+</p>
 
 <div align="center" style="margin-top: 10px;">
   <img 
