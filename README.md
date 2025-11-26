@@ -27,6 +27,7 @@ My username comes from the story of [Beren and Lúthien](https://lotr.huijiwiki.
 </table>
 -->
 
+<!--
 <p align="center">
   <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=143079146" target="_blank">
     <picture>
@@ -35,6 +36,7 @@ My username comes from the story of [Beren and Lúthien](https://lotr.huijiwiki.
     </picture>
   </a>
 </p>
+-->
 
 <div align="center" style="margin-top: 10px;">
   <img 
