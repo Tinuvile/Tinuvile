@@ -38,6 +38,23 @@ My username comes from the story of [Beren and Lúthien](https://lotr.huijiwiki.
 </p>
 -->
 
+<table rules="none" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <center>
+        <img src="https://github-readme-stats-tinuvile.vercel.app/api?username=Tinuvile&show_icons=true&count_private=true&rank_icon=github&line_height=27&custom_title=GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" 
+             style="max-height: 280px; height: auto;"/>
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="https://github-readme-stats-tinuvile.vercel.app/api/wakatime?username=Tinuvile&layout=compact" 
+             style="max-height: 280px; height: auto;"/>
+      </center>
+    </td>
+  </tr>
+</table>
+
 <div align="center" style="margin-top: 10px;">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=Tinuvile&theme=github-compact&hide_border=true&area=true" 
